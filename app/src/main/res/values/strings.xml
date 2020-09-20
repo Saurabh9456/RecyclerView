@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+
+    <string name="tv_shows">TV Shows</string>
+    <string name="add_to_watchlist">Add to Watchlist</string>
+</resources>
